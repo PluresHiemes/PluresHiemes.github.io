@@ -1,0 +1,30 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    margin-left:30%;
+    margin-right: 30%;
+    margin-top: 30%:
+}
+img{
+    height: 50%;
+    width:50%;
+}
+
+#logo{
+    height:100px;
+    width: 100px;
+    position: absolute;
+    top: 10px;
+    left: 21%;
+}
+
+#logo2{
+    height:100px;
+    width: 100px;
+    position:absolute;
+    top: 10px;
+    left: 69%;
+}

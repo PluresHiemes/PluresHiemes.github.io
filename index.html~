@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html> 
+  <head>
+    <title>Welcome</title>
+  </head>
+  
+  <body>
+    <h1>Welcome new Mission Bit students</h1>
+
+    <h2>Today we are going to make a webpage</h2>
+    <p> Ima add a picture</p>
+    <img src="images/rude.jpg" alt="Iconic moment of history">
+  </body>
+</html>
