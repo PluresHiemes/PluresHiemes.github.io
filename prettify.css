@@ -4,9 +4,7 @@ body {
 
 h1 {
     color: navy;
-    margin-left:30%;
-    margin-right: 30%;
-    margin-top: 100px:
+    margin-left: 370px;
 }
 
 h2 { 
@@ -33,4 +31,32 @@ img{
     position:absolute;
     top: 10px;
     left: 69%;
+}
+
+#navi_bar{
+    list-style-type:circle;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    text-align: left;
+}
+ 
+#nav a{
+    text-decoration: none;
+    list-style-position: outside;
+    display: block;
+    padding: 8px 16px;
+    
+}
+
+#nav a.active{
+    
+    background-color: purple;
+    color: white; 
+}
+
+
+#nav:hover:not(.active) {
+    background-color:palevioletred;
 }
